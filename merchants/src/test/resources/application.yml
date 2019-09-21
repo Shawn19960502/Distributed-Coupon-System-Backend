@@ -1,0 +1,20 @@
+spring:
+  application:
+    name:
+  datasource:
+    url:
+    username:
+    password:
+  kafka:
+    bootstrap-servers:
+    consumer:
+      group-id:
+    listener:
+      concurrency:
+
+server:
+  port:
+
+logging:
+  level:
+  file:

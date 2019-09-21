@@ -1,6 +1,6 @@
-package com.imooc.passbook;
+package com.personal_pj.passbook;
 
-import com.imooc.passbook.security.AuthCheckInterceptor;
+import com.personal_pj.passbook.security.AuthCheckInterceptor;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;

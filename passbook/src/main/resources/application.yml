@@ -1,0 +1,28 @@
+spring:
+  application:
+    name:
+  datasource:
+    url:
+    username: =
+    password:
+  kafka:
+    bootstrap-servers:
+    consumer:
+      group-id:
+    listener:
+      concurrency:
+  data:
+    hbase:
+      quorum:
+      rootDir:
+      nodeParent:
+  redis:
+    host:
+    port:
+
+server:
+  port:
+
+logging:
+  file:
+  level:
